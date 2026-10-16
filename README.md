@@ -2,7 +2,7 @@
 
 基于当前 Sites 线上第 19 版导出（2026-10-16）。保留个人简介、研究方向、工作经历、教育经历、19 篇论文及作者、Awards、照片、三所学校 logo 和 11 个 PDF 链接。4 份本地论文 PDF 已随包附带，其余 7 个外部 PDF 链接保持原样。
 
-目标仓库：`XiaodongQi1/xiaodongqi1.github.io`。正式网址：`https://xiaodongqi1.github.io/`。
+目标仓库：`XiaodongQi1/xiaodongqi-homepage.github.io`。正式网址：`https://xiaodongqi1.github.io/xiaodongqi-homepage.github.io/`。
 
 这是可以直接发布的 HTML/CSS 网站，无需 Node.js、npm、构建命令、服务器端程序或 GitHub Actions。
 
@@ -57,7 +57,7 @@ python3 -m http.server 8000
 
 ## 分享信息
 
-页面已经保留标题、简介、关键词等基础信息，`canonical`、`og:url`、`og:image` 和 `twitter:image` 已配置为 `https://xiaodongqi1.github.io/` 下的地址。将来改用其他域名时，同步修改这些元数据即可。
+页面已经保留标题、简介、关键词等基础信息，`canonical`、`og:url`、`og:image` 和 `twitter:image` 已配置为 `https://xiaodongqi1.github.io/xiaodongqi-homepage.github.io/` 下的地址。将来改用其他域名时，同步修改这些元数据即可。
 
 ## 版本与核查范围
 
